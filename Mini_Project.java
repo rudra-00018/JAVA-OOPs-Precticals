@@ -117,7 +117,7 @@ public class Mini_Project {
             System.out.println("Account No : " + acc.getAccountNumber());
             System.out.println("Owner      : " + acc.getOwnerName());
             System.out.println("Balance    : " + acc.getBalance());
-            System.out.println();
+            System.out.println(" ");
         }
     }
 }
