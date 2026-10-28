@@ -1,0 +1,5 @@
+2026-10-28 10:05:12 INFO [Auth] User 'alice' logged in successfully
+2026-10-28 10:06:44 WARN [Auth] Invalid credentials attempt for 'admin'
+2026-10-28 10:06:45 ERROR [Auth] Account locked after 5 failed attempts: 'admin'
+2026-10-28 10:07:01 ERROR [Auth] OAuth2 token verification failed: expired token
+2026-10-28 10:08:15 INFO [Auth] User 'bob' logged out

@@ -1,0 +1,4 @@
+2026-10-28 10:00:01 INFO [App] Application starting up...
+2026-10-28 10:00:05 INFO [App] Initializing service beans
+2026-10-28 10:01:23 ERROR [App] Failed to load optional plugin config: timeout
+2026-10-28 10:02:10 INFO [App] Ready to accept incoming connections
